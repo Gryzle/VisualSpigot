@@ -1,5 +1,5 @@
 # **Visual Spigot**
-<br/><sup>A Fork of Visual Bukkit</sup><br/>
+<sup>A Fork of Visual Bukkit</sup><br/>
 *An easy way to create Spigot plugins without a single line of code.*
 
 ## Visual Spigot aims to be a more modern and optmized version of Visual Bukkit. Visual Bukkit and its source can be found [here](https://github.com/OfficialDonut/VisualBukkit).
