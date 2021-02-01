@@ -7,8 +7,6 @@
 
 ## Visual Spigot aims to be a more modern and optmized version of Visual Bukkit. Visual Bukkit and its source can be found [here](https://github.com/OfficialDonut/VisualBukkit).
 
-Screenshots
-
 *Screenshot of Visual Spigot.*|*Screenshot of Visual Bukkit.*
 :-------------------------:|:-------------------------:
 ![](https://cdn.glitch.com/ad890a95-b860-436b-9d8e-c60e330898e5%2FVisual%20Spigot%201.png?v=1612191760521)|![](https://cdn.glitch.com/ad890a95-b860-436b-9d8e-c60e330898e5%2FVisual%20Bukkit%201.png?v=1612191760011)
