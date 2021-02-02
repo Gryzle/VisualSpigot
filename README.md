@@ -3,6 +3,8 @@
 *An easy way to create Spigot plugins without a single line of code.*
 
 ## Get The Latest Version [here](https://github.com/Gryzle/VisualSpigot/releases).
+### And Make Sure To Join [Visual Spigot's Discord](https://discord.gg/4kTTd9Pcqq)!
+
 ![](https://cdn.glitch.com/ad890a95-b860-436b-9d8e-c60e330898e5%2FGitHub%20Media.png?v=1612040931227)
 
 ## Visual Spigot aims to be a more modern and optimized version of Visual Bukkit. Visual Bukkit and its source can be found [here](https://github.com/OfficialDonut/VisualBukkit).
