@@ -2,7 +2,7 @@
 <sup>A Fork of Visual Bukkit</sup><br/>
 *An easy way to create Spigot plugins without a single line of code.*
 
-# Until OfficialDonut complies with the license attatched to Visual Spigot, VS will remain **Closed Source**.
+# Until OfficialDonut complies with the license attatched to Visual Spigot, VS will remain __Closed Source__.
 
 ## Get The Latest Version [here](https://github.com/Gryzle/VisualSpigot/releases).
 ### And Make Sure To Join [Visual Spigot's Discord](https://discord.gg/4kTTd9Pcqq)!
