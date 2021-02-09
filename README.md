@@ -2,8 +2,6 @@
 <sup>A Fork of Visual Bukkit</sup><br/>
 *An easy way to create Spigot plugins without a single line of code.*
 
-# Until OfficialDonut complies with the license attatched to Visual Spigot, VS will remain __Closed Source__.
-
 ## Get The Latest Version [here](https://github.com/Gryzle/VisualSpigot/releases).
 ### And Make Sure To Join [Visual Spigot's Discord](https://discord.gg/4kTTd9Pcqq)!
 
@@ -17,6 +15,7 @@
 *Visual Spigot follows all the guidelines mentioned in Visual Bukkit's GNU Affero General Public License v3.0. If there are any issues with Visual Spigot, please create a support ticket in the issues panel, or contact me either on Discord, `Gryzle#5593`, or by email at `igryzle@gmail.com`*
 
 Visual Spigot aims to be a more modern and optimized version of Visual Bukkit. Visual Bukkit and its source can be found [here](https://github.com/OfficialDonut/VisualBukkit).
+Until OfficialDonut complies with the license attatched to Visual Spigot, VS will remain __Closed Source__.
 
 ### Contributors
 - Gryzle
