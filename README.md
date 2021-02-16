@@ -1,3 +1,14 @@
+# VISUAL SPIGOT HAS BEEN **DISCONTINUED**
+You can still download and use it, but it will not receive future updates or changes. Thank you to all of the people who were supportive of the project, I truly appreciate you.
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 # **Visual Spigot**
 <sup>A Fork of Visual Bukkit</sup><br/>
 *An easy way to create Spigot plugins without a single line of code.*
